@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2019-09-20 11:50:26Z" end-time="2019-09-20 11:50:27Z" duration="0.0722269">
+  <test-suite type="TestSuite" id="1000" name="RWM-P0-C00217820" fullname="RWM-P0-C00217820" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-09-20 11:50:26Z" end-time="2019-09-20 11:50:27Z" duration="0.072227" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1005" name="Tests.dll" fullname="C:/Users/Aaron/Desktop/RWM-P0-C00217820/RWM-P0-C00217820/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-09-20 11:50:26Z" end-time="2019-09-20 11:50:27Z" duration="0.056733" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="3056" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+      </properties>
+      <test-suite type="TestSuite" id="1006" name="Tests" fullname="Tests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2019-09-20 11:50:26Z" end-time="2019-09-20 11:50:27Z" duration="0.049691" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestFixture" id="1001" name="CubeFilterTest" fullname="Tests.CubeFilterTest" classname="Tests.CubeFilterTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-09-20 11:50:26Z" end-time="2019-09-20 11:50:27Z" duration="0.040059" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-case id="1002" name="CubeFilterSimple" fullname="Tests.CubeFilterTest.CubeFilterSimple" methodname="CubeFilterSimple" classname="Tests.CubeFilterTest" runstate="Runnable" seed="2129080087" result="Passed" start-time="2019-09-20 11:50:26Z" end-time="2019-09-20 11:50:27Z" duration="0.020811" asserts="0">
+            <properties />
+          </test-case>
+        </test-suite>
+        <test-suite type="TestFixture" id="1003" name="XOR21FilterTest" fullname="Tests.XOR21FilterTest" classname="Tests.XOR21FilterTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-09-20 11:50:27Z" end-time="2019-09-20 11:50:27Z" duration="0.002209" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-case id="1004" name="XOR21Simple" fullname="Tests.XOR21FilterTest.XOR21Simple" methodname="XOR21Simple" classname="Tests.XOR21FilterTest" runstate="Runnable" seed="1969071900" result="Passed" start-time="2019-09-20 11:50:27Z" end-time="2019-09-20 11:50:27Z" duration="0.000550" asserts="0">
+            <properties />
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
